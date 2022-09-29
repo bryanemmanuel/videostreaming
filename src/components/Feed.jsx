@@ -1,9 +1,9 @@
 import React from 'react'
 
-const VideoFeed = () => {
+const Feed = () => {
   return (
     <div>VideoFeed</div>
   )
 }
 
-export default VideoFeed
+export default Feed
